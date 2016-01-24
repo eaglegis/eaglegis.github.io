@@ -5,7 +5,7 @@
 
 ## Demos
 
-* [Buller District Council Public GIS Apps](https://eaglegis.github.io/demos/BDCPublicGISApps.html)
+* [Buller District Council Public GIS Apps](http://eaglegis.github.io/demos/BDCPublicGISApps.html)
 
 ## Resources
 
