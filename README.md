@@ -8,6 +8,7 @@
 * [Buller District Council Website - GIS](http://eaglegis.github.io/demos/BDCGIS.html)
 * [Buller District Council Website - District Plan](http://eaglegis.github.io/demos/BDCDistrictPlan.html)
 * [Buller District Council Website - Water](http://eaglegis.github.io/demos/BDCWater.html)
+* [Hastings District Council Website - Water](http://eaglegis.github.io/demos/HDCWater.html)
 
 ## Resources
 
